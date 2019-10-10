@@ -15,4 +15,5 @@ In this repository I have backed up all of my system configuration files and oth
 6. mp3blaster : A CLI music player.
 
 ### Links
-1. Firefox Color theme : https://color.firefox.com/?theme=XQAAAAIOAQAAAAAAAABBKYhm849SCia2CaaEGccwS-xNKlhK3D2G8NhCzoNehZAsRaWUnFE5tFEMMDCVNH84NfPtENF2QtizTyefh0HT1diMWW1T-uy5WrIn5CQHcSz00YnCiarI5Ye2Cd6NzhNB0yqUPB7TLKyx02_6W0hiQVu5DJbe_f3D8iq_S90nt4qUnXGQs_VLuR59awJ4xxuewbpoCtUbxemKW2U-LU9DWLtc__bruew
+1. Firefox Color theme : https://color.firefox.com/?theme=XQAAAAIOAQAAAAAAAABBKYhm849SCia2CaaEGccwS-xNKliFvrJIcAF6ENY3kBjKL2oHo45W2-O_knxAhDaHpPxTMm0NE788-FSpehH7aU5PU3r9LxPImzO2dC5nd4KO8eio6C4jTMk23p8pT7gsz1H4oebA239XhNmS51HR1Rx_paGgzTNZp8X2lL-q5ufeq3FMpRtldpf50wvIxN4pw5QdWmOlR_b2n_-dCxEA 
+2. DuckDuckGo settings passphrase : bbroyisabitch
