@@ -80,7 +80,7 @@ tray-position = right
 tray-background = ${colors.background}
 tray-padding = 3
 tray-offset-x = 0
-tray-offset-y = 0
+tray-offset-y = -2
 tray-maxsize = 20
 tray-detached = false
 
