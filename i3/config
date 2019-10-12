@@ -37,6 +37,7 @@ bindsym XF86AudioRaiseVolume exec --no-startup-id bash volumectl.sh 10 && $refre
 bindsym XF86AudioLowerVolume exec --no-startup-id bash volumectl.sh -10 && $refresh_i3status
 bindsym XF86AudioMute exec --no-startup-id pactl set-sink-mute @DEFAULT_SINK@ toggle && $refresh_i3status
 bindsym XF86AudioMicMute exec --no-startup-id pactl set-source-mute @DEFAULT_SOURCE@ toggle && $refresh_i3status
+set $toggle_borders border toggle
 
 # use these keys for focus, movement, and resize directions when reaching for
 # the arrows is not convenient
@@ -100,7 +101,7 @@ bindsym $mod+w layout tabbed
 bindsym $mod+e layout toggle split
 
 # toggle tiling / floating
-bindsym $mod+Shift+space floating toggle
+bindsym $mod+Shift+space exec --no-startup-id bash toggle_floating_windows.sh
 
 # change focus between tiling / floating windows
 bindsym $mod+space focus mode_toggle
@@ -220,10 +221,10 @@ client.urgent           #000000 #900000 #ffffff #00000000   #90000000
 
 focus_follows_mouse no
 
-#for_window [class="^.*"] border pixel 0
+for_window [class="^.*"] border pixel 0
 #for_window [class="albert"] border pixel 0
-for_window [class="Firefox"] border pixel 0
-for_window [class="nautilus"] border pixel 0
+#for_window [class="Firefox"] border pixel 0
+#for_window [class="nautilus"] border pixel 0
 
 # brightness controls
 bindsym XF86MonBrightnessUp exec sudo light -A 10
