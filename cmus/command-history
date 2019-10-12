@@ -1,0 +1,27 @@
+set color_win_sel_bg=yellow
+set color_win_sel_bg=yello
+set color_win_sel_bg=white
+set color_win_sel_fg=black
+set color_win_sel_bg=green
+set color_win_sel_bg=red
+quit
+set color_win_title_fg=black
+set color_win_title_bg=cyan
+set color_win_inactive_cur_sel_fg=black
+set color_win_cur_sel_attr=black
+set color_win_cur_sel_fg=black
+set color_win_cur_sel_bg=cyan
+set color_win_cur=cyan
+set color_titleline_bg=black
+set color_titleline_bg=back
+set color_titleline_bg=cyan
+set color_statusline_bg=cyan
+set color_separator=white
+set color_separator=red
+set color_statusline_bg=red
+set color_separator red
+set color_seperator red
+color_seperator black
+exit
+help
+a ~/Music
