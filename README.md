@@ -16,4 +16,4 @@ In this repository I have backed up all of my system configuration files and oth
 
 ### Links
 1. Firefox Color theme : https://color.firefox.com/?theme=XQAAAAIOAQAAAAAAAABBKYhm849SCia2CaaEGccwS-xNKliFvrJIcAF6ENY3kBjKL2oHo45W2-O_knxAhDaHpPxTMm0NE788-FSpehH7aU5PU3r9LxPImzO2dC5nd4KO8eio6C4jTMk23p8pT7gsz1H4oebA239XhNmS51HR1Rx_paGgzTNZp8X2lL-q5ufeq3FMpRtldpf50wvIxN4pw5QdWmOlR_b2n_-dCxEA 
-2. DuckDuckGo settings passphrase : bbroyisabitch
+2. DuckDuckGo settings passphrase : zero362_##1
